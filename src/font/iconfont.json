@@ -1,0 +1,163 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5406904",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "6954365",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "7351875",
+      "name": "证件",
+      "font_class": "ziyuanldpi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7797289",
+      "name": "卡片",
+      "font_class": "qiapian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8616796",
+      "name": "最近",
+      "font_class": "clock",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "9414875",
+      "name": "共享",
+      "font_class": "gongxiang",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10948270",
+      "name": "三个点",
+      "font_class": "sangedian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11892053",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "12136767",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12474157",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12544755",
+      "name": "设备管理",
+      "font_class": "-device-manage",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "14202394",
+      "name": "六边形",
+      "font_class": "liubianxing",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14400863",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "14417709",
+      "name": "添加",
+      "font_class": "jiatianjia",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14689736",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "15936903",
+      "name": "音频",
+      "font_class": "yinpin",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "16788683",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "17597274",
+      "name": "扫描",
+      "font_class": "saomiao",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "17857148",
+      "name": "回收站",
+      "font_class": "huishouzhan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18223939",
+      "name": "荣誉",
+      "font_class": "rongyu",
+      "unicode": "e5d2",
+      "unicode_decimal": 58834
+    },
+    {
+      "icon_id": "19108907",
+      "name": "共享",
+      "font_class": "gongxiang1",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "19302148",
+      "name": "传输列表",
+      "font_class": "chuanshuliebiao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
