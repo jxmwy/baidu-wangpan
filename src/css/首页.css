@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+html {
+  font-size: 31.25vw;
+}
+body {
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  height: 0.4rem;
+  width: 100%;
+  background-color: #f6f7fb;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-evenly;
+}
+header div {
+  width: 2rem;
+  position: relative;
+}
+header div input {
+  width: 2rem;
+  height: 0.27rem;
+  margin-top: 0.05rem;
+  border-radius: 0.1rem;
+  padding-left: 0.25rem;
+  font-size: 0.11rem;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+header div .iconfont {
+  position: absolute;
+  left: 0.06rem;
+  top: 0.12rem;
+  font-size: 0.11rem;
+  color: #b6b5bb;
+}
+header span {
+  display: block;
+  height: 0.27rem;
+  width: 0.27rem;
+  text-align: center;
+  line-height: 0.27rem;
+  margin-top: 0.05rem;
+  background-color: #fff;
+  border-radius: 50%;
+}
+header .iconfont {
+  font-size: 0.18rem;
+  font-weight: bold;
+}
+header .iconfont:nth-of-type(2) {
+  font-size: 0.14rem;
+}
+
+section {
+  flex: 1;
+  overflow: auto;
+  background-color: #f6f7fb;
+  padding: 0 0.11rem;
+}
+section .nav {
+  height: 0.75rem;
+  display: flex;
+  justify-content: space-around;
+}
+.nav img {
+  height: 0.25rem;
+  margin-top: 0.2rem;
+}
+.nav p {
+  font-size: 0.08rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0.025rem;
+}
+.list {
+  height: 1.05rem;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 0.05rem;
+}
+.list ul {
+  display: flex;
+  height: 0.525rem;
+  justify-content: space-evenly;
+}
+.list ul img {
+  margin-top: 0.05rem;
+  height: 0.18rem;
+}
+.list ul li {
+  width: 0.5rem;
+  list-style: none;
+  text-align: center;
+}
+.list ul p {
+  font-size: 0.07rem;
+  margin-top: 0.05rem;
+}
+.banner {
+  margin-top: 0.1rem;
+  height: 0.7rem;
+  width: 100%;
+  border-radius: 0.05rem;
+}
+.banner img {
+  width: 100%;
+}
+.new {
+  height: 1.5rem;
+  padding: 0 0.05rem;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 0.05rem;
+  margin-top: 0.075rem;
+}
+.new p {
+  font-size: 0.125rem;
+  font-weight: bold;
+  line-height: 0.48rem;
+}
+.new img {
+  width: 100%;
+}
+section .foot {
+  height: 0.4rem;
+  line-height: 0.4rem;
+  width: 100%;
+  font-size: 0.1rem;
+  text-align: center;
+  color: #b6b5bb;
+}
+
+footer {
+  display: flex;
+  height: 0.5rem;
+  width: 100%;
+  justify-content: space-around;
+}
+footer nav {
+  width: 100%;
+  text-align: center;
+  padding-top: 0.1rem;
+  color: #0f0d1a;
+}
+footer img {
+  height: 0.18rem;
+  width: 0.18rem;
+  border-radius: 50%;
+}
+footer nav .iconfont {
+  font-size: 0.2rem;
+  text-align: center;
+  font-weight: bold;
+}
+footer nav p {
+  margin-top: 0.04rem;
+  font-size: 0.09rem;
+}
+footer nav:hover {
+  color: #0baefb;
+}
