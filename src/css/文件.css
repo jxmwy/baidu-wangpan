@@ -162,3 +162,6 @@ footer nav p {
 footer nav:hover {
   color: #0baefb;
 }
+footer nav:nth-child(2) {
+  color: #0baefb;
+}

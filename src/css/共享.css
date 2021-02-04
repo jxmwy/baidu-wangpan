@@ -55,91 +55,63 @@ header span {
   border-radius: 50%;
 }
 header .iconfont {
-  font-size: 0.18rem;
+  font-size: 0.14rem;
   font-weight: bold;
 }
 header .iconfont:nth-of-type(2) {
-  font-size: 0.14rem;
+  font-size: 0.18rem;
 }
 
 section {
   flex: 1;
   overflow: auto;
-  background-color: #f6f7fb;
-  padding: 0 0.11rem;
+  background-color: #f5f6f8;
 }
-section .nav {
-  height: 0.75rem;
+.nav ul {
   display: flex;
+  height: 1rem;
+  flex-direction: row;
   justify-content: space-around;
+}
+.nav li {
+  margin-top: 0.35rem;
+  text-align: center;
+  list-style: none;
 }
 .nav img {
   height: 0.25rem;
-  margin-top: 0.2rem;
 }
 .nav p {
-  font-size: 0.08rem;
-  font-weight: bold;
-  text-align: center;
-  margin-top: 0.025rem;
-}
-.list {
-  height: 1.05rem;
-  width: 100%;
-  background-color: #fff;
-  border-radius: 0.05rem;
-}
-.list ul {
-  display: flex;
-  height: 0.525rem;
-  justify-content: space-evenly;
-}
-.list ul img {
-  margin-top: 0.05rem;
-  height: 0.18rem;
-}
-.list ul li {
-  width: 0.5rem;
-  list-style: none;
-  text-align: center;
-}
-.list ul p {
-  font-size: 0.07rem;
-  margin-top: 0.05rem;
-}
-.banner {
-  margin-top: 0.1rem;
-  height: 0.7rem;
-  width: 100%;
-  border-radius: 0.05rem;
-}
-.banner img {
-  width: 100%;
-}
-.new {
-  height: 1.5rem;
-  padding: 0 0.05rem;
-  box-sizing: border-box;
-  width: 100%;
-  background-color: #fff;
-  border-radius: 0.05rem;
-  margin-top: 0.075rem;
-}
-.new p {
-  font-size: 0.125rem;
-  font-weight: bold;
-  line-height: 0.48rem;
-}
-.new img {
-  width: 100%;
-}
-section .foot {
-  height: 0.4rem;
-  line-height: 0.4rem;
-  width: 100%;
   font-size: 0.1rem;
-  text-align: center;
-  color: #b6b5bb;
+  margin-top: 0.05rem;
+  font-weight: bold;
+}
+.message {
+  display: flex;
+  justify-content: space-between;
+  height: 0.7rem;
+  background-color: #fff;
+  box-sizing: border-box;
+  padding: 0.1rem 0.1rem;
+}
+.message img {
+  height: 0.4rem;
+}
+.message div {
+  width: 1.8rem;
+}
+.message div h3 {
+  font-size: 0.12rem;
+  margin-bottom: 0.1rem;
+}
+.message div span {
+  color: #b9bcc3;
+  font-size: 0.12rem;
+}
+.message p {
+  color: #b9bcc3;
+  font-size: 0.1rem;
+  width: 0.6rem;
 }
 
 footer {
@@ -171,6 +143,6 @@ footer nav p {
 footer nav:hover {
   color: #0baefb;
 }
-footer nav:nth-child(1) {
+footer nav:nth-child(3) {
   color: #0baefb;
 }
